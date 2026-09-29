@@ -10,6 +10,7 @@
     "dev:dashboard": "pnpm --filter dashboard dev",
     "db:generate": "pnpm --filter @repo/database db:generate",
     "db:migrate": "pnpm --filter @repo/database db:migrate",
+    "db:seed": "pnpm --filter @repo/database db:seed",
     "db:studio": "pnpm --filter @repo/database db:studio",
     "db:build": "pnpm --filter @repo/database build",
     "infra:up": "docker-compose -f docker/docker-compose.yml up -d",

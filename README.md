@@ -8,9 +8,9 @@ Built as a monorepo using Next.js, Express, PostgreSQL, Prisma, and Turborepo.
 
 ## Screenshots
 
-| Diner QR Storefront | Operator Dashboard & POS | Kitchen Ticket / Receipt |
-| :---: | :---: | :---: |
-| ![Storefront](docs/screenshots/storefront.png) | ![Dashboard](docs/screenshots/dashboard.png) | ![Receipt](docs/screenshots/receipt.png) |
+| Diner QR Storefront | Operator Dashboard (Table View) |
+| :---: | :---: |
+| ![Storefront](docs/screenshots/storefront.png) | ![Dashboard](docs/screenshots/dashboard.png) |
 
 ---
 
